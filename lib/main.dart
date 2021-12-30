@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Giphy Developer',
+      title: 'Giphy',
       home: const HomePage(),
       theme: ThemeData(
         hintColor: Colors.white,
